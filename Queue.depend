@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1478242928 source:f:\sci\data structures\queue\main.cpp
+	"Stack.cpp"
+	"Queue.cpp"
+	<iostream>
+
+1478242874 f:\sci\data structures\queue\stack.h
+
+1478213992 f:\sci\data structures\queue\queue.h
+
+1478242979 f:\sci\data structures\queue\stack.cpp
+	"Stack.h"
+
+1478243595 f:\sci\data structures\queue\queue.cpp
+	"Queue.h"
+
